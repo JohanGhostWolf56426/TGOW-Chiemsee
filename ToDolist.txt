@@ -1,5 +1,3 @@
-
-Make less than 10 round mag 1x1
-Make the more than 10 round mags 2x1
-Keep 20rnd vaiga mag 2x2
-Make 75rnd ak mag 2x2
+Resize Teddy Bear - 
+    Size = 2x2
+    Capacity = 3x3
