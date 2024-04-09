@@ -1,10 +1,3 @@
-Resize WeaponsCleaningKit
-    Size 1x2
-Increase stack count for Arrow bolt
-    count 20
-Resize AmmoBox
-    Size 4x4
-    Inventory 5x5
 Make thes areas Keycard rooms - 9103.75 / 8733.13
     Pic for tier and location - 
         9103.75 8733.13 tier 4
