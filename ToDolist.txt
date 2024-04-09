@@ -1,3 +1,2 @@
-Set Unlimited Stamina
 Resize WeaponsCleaningKit
     Size 1x2
