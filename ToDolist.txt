@@ -1,11 +1,3 @@
-Resize Protective Case - 
-    Size = 3x3
-Resize Crossbow - 
-    Size = 3x7
-Resize Electrical Repair Kit - 
-    Size = 1x2
-Resize Leather Repair Kit - 
-    Size = 1x2
-Resize Tire Repair Kit - 
-    Size = 1x2
 Set Unlimited Stamina
+Resize WeaponsCleaningKit
+    Size 1x2
