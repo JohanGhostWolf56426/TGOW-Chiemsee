@@ -1,0 +1,943 @@
+{
+    "EnableDebug": 0,
+    "DeleteLogs": 1,
+    "MaxSpareMags": 3,
+    "RandomQuantity": 0,
+    "LootChestsLocations": [
+        {
+            "name": "Gollenhausen Mine barracks medium crate",
+            "number": 1,
+            "pos": [
+                "9107.508789 5.715399 8737.954102|-27.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Brown_Medium",
+                "CJ_LootChest_Green_Medium",
+                "CJ_LootChest_Grey_Medium",
+                "CJ_LootChest_Olive_Medium",
+                "CJ_LootChest_Tan_Medium",
+                "CJ_LootChest_Camo_Medium"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+                "LC_Table_Weapons_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Mag_Tier2"
+
+            ]
+        },
+        {
+            "name": "Gollenhausen Mine barracks ammo crate",
+            "number": 1,
+            "pos": [
+                "9108.396484 6.375331 8733.101563|-107.999939 0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Ammo_Small_Brown",
+                "CJ_LootChest_Ammo_Small_Green"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+                "LC_Table_Ammo_Tier1",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier4"
+            ]
+        },
+        {
+            "name": "Gollenhausen Mine uppershaft",
+            "number": 1,
+            "pos": [
+                "9148.830078 11.137100 8710.599609|-117.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Large",
+                "CJ_LootChest_Wood_Green_Large"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+                "LC_Table_Weapons_Tier4",
+                "LC_Table_Ammo_Tier4",
+                "LC_Table_Mag_Tier4"
+            ]
+        },
+        {
+            "name": "Gollenhausen Mine lowershaft",
+            "number": 1,
+            "pos": [
+                "9171.334961 6.619211 8661.446289|-172.046494 0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key2",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_MoneySafe_Old"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "LC_Table_Weapons_Handgun"
+            ]
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_AK101",
+            "weapon": "AK101",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AK74",
+            "weapon": "AK74",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AKM",
+            "weapon": "AKM",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AKS74U",
+            "weapon": "AKS74U",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_ASVAL",
+            "weapon": "ASVAL",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AUG",
+            "weapon": "Aug",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Blaze",
+            "weapon": "B95",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_AUGSHORT",
+            "weapon": "AugShort",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_CZ527",
+            "weapon": "CZ527",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_CZ550",
+            "weapon": "CZ550",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_CZ61",
+            "weapon": "CZ61",
+            "magazine": "",
+            "attachments": [
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_CZ75",
+            "weapon": "CZ75",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Colt1911",
+            "weapon": "Colt1911",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Crossbow",
+            "weapon": "Crossbow_Black",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Deagle",
+            "weapon": "Deagle",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Deagle_Gold",
+            "weapon": "Deagle_Gold",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Engraved1911",
+            "weapon": "Engraved1911",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_FAL",
+            "weapon": "FAL",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_FAMAS",
+            "weapon": "FAMAS",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_FNX45",
+            "weapon": "FNX45",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Glock19",
+            "weapon": "Glock19",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Izh18",
+            "weapon": "Izh18",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Izh18Shotgun",
+            "weapon": "Izh18Shotgun",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Izh43Shotgun",
+            "weapon": "Izh43Shotgun",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Longhorn",
+            "weapon": "Longhorn",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_M16A2",
+            "weapon": "M16A2",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_M4A1",
+            "weapon": "M4A1",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_M79",
+            "weapon": "M79",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_MKII",
+            "weapon": "MKII",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_MP5K",
+            "weapon": "MP5K",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Magnum",
+            "weapon": "Magnum",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_MakarovIJ70",
+            "weapon": "MakarovIJ70",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Mosin9130",
+            "weapon": "Mosin9130",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Mp133Shotgun",
+            "weapon": "Mp133Shotgun",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_P1",
+            "weapon": "P1",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_PP19",
+            "weapon": "PP19",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Ruger1022",
+            "weapon": "Ruger1022",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SKS",
+            "weapon": "SKS",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SSG82",
+            "weapon": "SSG62",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SVD",
+            "weapon": "SVD",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Saiga",
+            "weapon": "Saiga",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Scout",
+            "weapon": "Scout",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_UMP45",
+            "weapon": "UMP45",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_VSS",
+            "weapon": "VSS",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Vikhr",
+            "weapon": "Vikhr",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Winchester70",
+            "weapon": "Winchester70",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Weapons_Handgun",
+            "Loot": [
+                "LC_predefined_CZ75",
+                "LC_predefined_P1",
+                "LC_predefined_MakarovIJ70",
+                "LC_predefined_Magnum",
+                "LC_predefined_MKII",
+                "LC_predefined_FNX45",
+                "LC_predefined_Engraved1911",
+                "LC_predefined_Colt1911"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Tier1",
+            "Loot": [
+                "LC_predefined_CZ527",
+                "LC_predefined_CZ61",
+                "LC_predefined_Colt1911",
+                "LC_predefined_Crossbow",
+                "LC_predefined_Deagle",
+                "LC_predefined_Deagle_Gold",
+                "LC_predefined_Engraved1911",
+                "LC_predefined_FAL",
+                "LC_predefined_FAMAS",
+                "LC_predefined_Glock19",
+                "LC_predefined_Izh18",
+                "LC_predefined_Izh18Shotgun",
+                "LC_predefined_Izh43Shotgun",
+                "LC_predefined_MKII",
+                "LC_predefined_MP5K",
+                "LC_predefined_Magnum",
+                "LC_predefined_MakarovIJ70",
+                "LC_predefined_Mp133Shotgun",
+                "LC_predefined_PP19",
+                "LC_predefined_Ruger1022",
+                "LC_predefined_Scout",
+                "LC_predefined_UMP45"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Tier2",
+            "Loot": [
+                "LC_predefined_AK101",
+                "LC_predefined_AKS74U",
+                "LC_predefined_AUGSHORT",
+                "LC_predefined_Blaze",
+                "LC_predefined_CZ527",
+                "LC_predefined_CZ61",
+                "LC_predefined_Colt1911",
+                "LC_predefined_Crossbow",
+                "LC_predefined_Deagle",
+                "LC_predefined_Deagle_Gold",
+                "LC_predefined_Engraved1911",
+                "LC_predefined_FAL",
+                "LC_predefined_FAMAS",
+                "LC_predefined_FNX45",
+                "LC_predefined_Glock19",
+                "LC_predefined_Izh18",
+                "LC_predefined_Izh18Shotgun",
+                "LC_predefined_Izh43Shotgun",
+                "LC_predefined_Longhorn",
+                "LC_predefined_MKII",
+                "LC_predefined_MP5K",
+                "LC_predefined_Magnum",
+                "LC_predefined_Mp133Shotgun",
+                "LC_predefined_P1",
+                "LC_predefined_PP19",
+                "LC_predefined_SKS",
+                "LC_predefined_SSG82",
+                "LC_predefined_Scout",
+                "LC_predefined_UMP45"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Tier3",
+            "Loot": [
+                "LC_predefined_AK101",
+                "LC_predefined_AK74",
+                "LC_predefined_AKS74U",
+                "LC_predefined_AUG",
+                "LC_predefined_Blaze",
+                "LC_predefined_CZ527",
+                "LC_predefined_CZ550",
+                "LC_predefined_CZ61",
+                "LC_predefined_CZ75",
+                "LC_predefined_Crossbow",
+                "LC_predefined_Deagle",
+                "LC_predefined_Deagle_Gold",
+                "LC_predefined_Engraved1911",
+                "LC_predefined_FAL",
+                "LC_predefined_FAMAS",
+                "LC_predefined_FNX45",
+                "LC_predefined_Glock19",
+                "LC_predefined_Izh18Shotgun",
+                "LC_predefined_Longhorn",
+                "LC_predefined_M16A2",
+                "LC_predefined_MP5K",
+                "LC_predefined_Magnum",
+                "LC_predefined_Mosin9130",
+                "LC_predefined_Mp133Shotgun",
+                "LC_predefined_P1",
+                "LC_predefined_PP19",
+                "LC_predefined_SKS",
+                "LC_predefined_SSG82",
+                "LC_predefined_Saiga",
+                "LC_predefined_Scout",
+                "LC_predefined_UMP45",
+                "LC_predefined_Vikhr",
+                "LC_predefined_Winchester70"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Tier4",
+            "Loot": [
+                "LC_predefined_AK74",
+                "LC_predefined_AKM",
+                "LC_predefined_AKS74U",
+                "LC_predefined_ASVAL",
+                "LC_predefined_Blaze",
+                "LC_predefined_CZ550",
+                "LC_predefined_CZ61",
+                "LC_predefined_CZ75",
+                "LC_predefined_Crossbow",
+                "LC_predefined_Deagle",
+                "LC_predefined_Deagle_Gold",
+                "LC_predefined_Engraved1911",
+                "LC_predefined_FAL",
+                "LC_predefined_FAMAS",
+                "LC_predefined_Glock19",
+                "LC_predefined_Longhorn",
+                "LC_predefined_M16A2",
+                "LC_predefined_M4A1",
+                "LC_predefined_M79",
+                "LC_predefined_Magnum",
+                "LC_predefined_Mosin9130",
+                "LC_predefined_Mp133Shotgun",
+                "LC_predefined_PP19",
+                "LC_predefined_SKS",
+                "LC_predefined_SSG82",
+                "LC_predefined_SVD",
+                "LC_predefined_Saiga",
+                "LC_predefined_Scout",
+                "LC_predefined_UMP45",
+                "LC_predefined_VSS",
+                "LC_predefined_Winchester70"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Tier1",
+            "Loot": [
+                "Ammo_12gaPellets",
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaSlug",
+                "Ammo_22",
+                "Ammo_308Win",
+                "Ammo_357",
+                "Ammo_380",
+                "Ammo_40mm_Chemgas",
+                "Ammo_40mm_Smoke_Black",
+                "Ammo_40mm_Smoke_Green",
+                "Ammo_40mm_Smoke_Red",
+                "Ammo_40mm_Smoke_White",
+                "Ammo_45ACP",
+                "Ammo_545x39",
+                "Ammo_545x39Tracer",
+                "Ammo_762x39",
+                "Ammo_9x19",
+                "Ammo_9x39",
+                "Ammo_Flare",
+                "Ammo_FlareBlue",
+                "Ammo_FlareGreen",
+                "Ammo_FlareRed",
+                "Ammo_HuntingBolt"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Tier2",
+            "Loot": [
+                "Ammo_12gaPellets",
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaSlug",
+                "Ammo_22",
+                "Ammo_308Win",
+                "Ammo_308WinTracer",
+                "Ammo_357",
+                "Ammo_380",
+                "Ammo_40mm_Chemgas",
+                "Ammo_40mm_Smoke_Black",
+                "Ammo_40mm_Smoke_Green",
+                "Ammo_40mm_Smoke_Red",
+                "Ammo_40mm_Smoke_White",
+                "Ammo_45ACP",
+                "Ammo_545x39",
+                "Ammo_545x39Tracer",
+                "Ammo_556x45",
+                "Ammo_556x45Tracer",
+                "Ammo_762x39",
+                "Ammo_762x39Tracer",
+                "Ammo_762x54",
+                "Ammo_762x54Tracer",
+                "Ammo_9x19",
+                "Ammo_9x39",
+                "Ammo_Flare",
+                "Ammo_FlareBlue",
+                "Ammo_FlareGreen",
+                "Ammo_FlareRed",
+                "Ammo_HuntingBolt"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Tier3",
+            "Loot": [
+                "Ammo_12gaPellets",
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaSlug",
+                "Ammo_22",
+                "Ammo_308Win",
+                "Ammo_308WinTracer",
+                "Ammo_357",
+                "Ammo_380",
+                "Ammo_40mm_Chemgas",
+                "Ammo_40mm_Explosive",
+                "Ammo_40mm_Smoke_Black",
+                "Ammo_40mm_Smoke_Green",
+                "Ammo_40mm_Smoke_Red",
+                "Ammo_40mm_Smoke_White",
+                "Ammo_45ACP",
+                "Ammo_545x39",
+                "Ammo_545x39Tracer",
+                "Ammo_556x45",
+                "Ammo_556x45Tracer",
+                "Ammo_762x39",
+                "Ammo_762x39Tracer",
+                "Ammo_762x54",
+                "Ammo_762x54Tracer",
+                "Ammo_9x19",
+                "Ammo_9x39",
+                "Ammo_9x39AP",
+                "Ammo_Flare",
+                "Ammo_FlareBlue",
+                "Ammo_FlareGreen",
+                "Ammo_FlareRed",
+                "Ammo_HuntingBolt"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Tier4",
+            "Loot": [
+                "Ammo_12gaPellets",
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaSlug",
+                "Ammo_22",
+                "Ammo_308Win",
+                "Ammo_308WinTracer",
+                "Ammo_357",
+                "Ammo_380",
+                "Ammo_40mm_Chemgas",
+                "Ammo_40mm_Explosive",
+                "Ammo_40mm_Smoke_Black",
+                "Ammo_40mm_Smoke_Green",
+                "Ammo_40mm_Smoke_Red",
+                "Ammo_40mm_Smoke_White",
+                "Ammo_45ACP",
+                "Ammo_545x39",
+                "Ammo_545x39Tracer",
+                "Ammo_556x45",
+                "Ammo_556x45Tracer",
+                "Ammo_762x39Tracer",
+                "Ammo_762x54",
+                "Ammo_762x54Tracer",
+                "Ammo_9x19",
+                "Ammo_9x39",
+                "Ammo_9x39AP",
+                "Ammo_Flare",
+                "Ammo_FlareBlue",
+                "Ammo_FlareGreen",
+                "Ammo_FlareRed",
+                "Ammo_HuntingBolt"
+            ]
+        },
+        {
+            "name": "LC_Table_Mag_Tier1",
+            "Loot": [
+                "Mag_1911_7Rnd",
+                "Mag_CZ61_20Rnd",
+                "Mag_Deagle_9rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_IJ70_8Rnd",
+                "Mag_MKII_10Rnd",
+                "Mag_MP5_15Rnd",
+                "Mag_MP5_30Rnd",
+                "Mag_PP19_64Rnd",
+                "Mag_Ruger1022_15Rnd",
+                "Mag_UMP_25Rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_Mag_Tier2",
+            "Loot": [
+                "Mag_1911_7Rnd",
+                "Mag_AK101_30Rnd",
+                "Mag_AK74_30Rnd",
+                "Mag_CMAG_10Rnd",
+                "Mag_CMAG_20Rnd",
+                "Mag_CZ527_5rnd",
+                "Mag_CZ61_20Rnd",
+                "Mag_Deagle_9rnd",
+                "Mag_FNX45_15Rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_MKII_10Rnd",
+                "Mag_MP5_15Rnd",
+                "Mag_MP5_30Rnd",
+                "Mag_P1_8Rnd",
+                "Mag_PP19_64Rnd",
+                "Mag_Ruger1022_15Rnd",
+                "Mag_Ruger1022_30Rnd",
+                "Mag_SSG82_5rnd",
+                "Mag_Scout_5Rnd",
+                "Mag_UMP_25Rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_Mag_Tier3",
+            "Loot": [
+                "Mag_AK101_30Rnd",
+                "Mag_AK74_30Rnd",
+                "Mag_AKM_30Rnd",
+                "Mag_AKM_Palm30Rnd",
+                "Mag_Aug_30Rnd",
+                "Mag_CMAG_10Rnd",
+                "Mag_CMAG_20Rnd",
+                "Mag_CMAG_30Rnd",
+                "Mag_CZ527_5rnd",
+                "Mag_CZ550_10Rnd",
+                "Mag_CZ61_20Rnd",
+                "Mag_CZ75_15Rnd",
+                "Mag_Deagle_9rnd",
+                "Mag_FAMAS_25Rnd",
+                "Mag_FNX45_15Rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_MP5_15Rnd",
+                "Mag_MP5_30Rnd",
+                "Mag_P1_8Rnd",
+                "Mag_PP19_64Rnd",
+                "Mag_Ruger1022_30Rnd",
+                "Mag_SSG82_5rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_Saiga_5Rnd",
+                "Mag_Saiga_8Rnd",
+                "Mag_Scout_5Rnd",
+                "Mag_UMP_25Rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_Mag_Tier4",
+            "Loot": [
+                "Mag_AK74_30Rnd",
+                "Mag_AK74_45Rnd",
+                "Mag_AKM_30Rnd",
+                "Mag_AKM_Drum75Rnd",
+                "Mag_AKM_Palm30Rnd",
+                "Mag_Aug_30Rnd",
+                "Mag_CMAG_30Rnd",
+                "Mag_CMAG_40Rnd",
+                "Mag_CZ527_5rnd",
+                "Mag_CZ550_10Rnd",
+                "Mag_CZ61_20Rnd",
+                "Mag_CZ75_15Rnd",
+                "Mag_Deagle_9rnd",
+                "Mag_FAL_20Rnd",
+                "Mag_FAMAS_25Rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_MP5_15Rnd",
+                "Mag_MP5_30Rnd",
+                "Mag_PP19_64Rnd",
+                "Mag_SSG82_5rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_60Rnd",
+                "Mag_SVD_10Rnd",
+                "Mag_Saiga_5Rnd",
+                "Mag_Saiga_8Rnd",
+                "Mag_Saiga_Drum20Rnd",
+                "Mag_Scout_5Rnd",
+                "Mag_UMP_25Rnd",
+                "Mag_VAL_20Rnd",
+                "Mag_VSS_10Rnd",
+                "Mag_Vikhr_30Rnd"
+            ]
+        }
+    ]
+}
