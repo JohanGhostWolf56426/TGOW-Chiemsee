@@ -2,14 +2,14 @@
     "LCTools": [
         {
             "name": "SledgeHammer",
-            "time": 5,
-            "dmg": 50,
+            "time": 10,
+            "dmg": 100,
             "desc": ""
         },
         {
             "name": "Crowbar",
             "time": 30,
-            "dmg": 25,
+            "dmg": 50,
             "desc": ""
         },
         {
@@ -27,7 +27,7 @@
         {
             "name": "CJ_Key2",
             "time": 3,
-            "dmg": 10,
+            "dmg": 50,
             "desc": "Old safe|This key can unlock zone 1 old safes"
         },
         {

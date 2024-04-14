@@ -12,7 +12,7 @@
                 0.000000,
                 0.000000
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 0,
             "itemsToOpenDoor": [
                 "evg_keycards_All",
                 "evg_keycards_Green"
@@ -36,7 +36,7 @@
                 0.000000,
                 0.000000
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
                 "evg_keycards_All",
                 "evg_keycards_Blue"

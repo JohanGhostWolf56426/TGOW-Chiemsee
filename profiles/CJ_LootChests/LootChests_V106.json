@@ -91,21 +91,25 @@
         {
             "defname": "LC_predefined_AK101",
             "weapon": "AK101",
-            "magazine": "",
+            "magazine": "Mag_AK101_30Rnd",
             "attachments": [
-                ""
+                "AK_FoldingBttstck",
+                "AK_RailHndgrd",
+                "AK_Suppressor"
             ],
-            "optic": "",
+            "optic": "KobraOptic",
             "opticbattery": 1
         },
         {
             "defname": "LC_predefined_AK74",
             "weapon": "AK74",
-            "magazine": "",
+            "magazine": "Mag_AK74_30Rnd",
             "attachments": [
-                ""
+                "AK_FoldingBttstck",
+                "AK_RailHndgrd",
+                "AK_Suppressor"
             ],
-            "optic": "",
+            "optic": "KobraOptic",
             "opticbattery": 1
         },
         {
