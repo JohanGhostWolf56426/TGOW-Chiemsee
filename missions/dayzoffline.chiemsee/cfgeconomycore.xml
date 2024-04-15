@@ -42,7 +42,5 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<!-- TGOW Custom types.xmls -->
 	<ce folder="mods">
 		<!--Keyrooms-->
-		<file name="keycards_types.xml" type="types"/>
-		<file name="Lootchest_types.xml" type="types"/>
 	</ce>
 </economycore>

@@ -1,5 +1,21 @@
-Make thes areas Keycard rooms - 9103.75 / 8733.13
-    Pic for tier and location - 
-        9103.75 8733.13 tier 4
-        9103.75 8733.13 tier 2
-Adjust keycard to only be able to be used twice (once entering, once exiting)
+Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
+    Change RK_ctrlbox - 1x1
+    Change RK_die - 1x1
+    Change RK_pressonly - 5x5
+    Change RK_metal - 5x5
+
+    RK_ctrlbox - Tier3
+    RK_die - Tier4
+    RK_pressonly - Tier4 Lootrooms
+    RK_metal - Tier5 Lootrooms
+
+Ammo Reloader - https://steamcommunity.com/sharedfiles/filedetails/?id=3179922338 :
+    Change RK_Reloader - 5x5
+    Change RK_Bullets - 1x1
+    Change RK_Casings - 1x1
+    Change RK_EmptyBox - 2x2
+
+    RK_Reloader - Tier4 Lootrooms
+    RK_EmptyBox - Tier5 Lootrooms
+    RK_Bullets - Tier4
+    RK_Casings -Tier3
