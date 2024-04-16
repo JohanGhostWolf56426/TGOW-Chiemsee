@@ -42,5 +42,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<!-- TGOW Custom types.xmls -->
 	<ce folder="mods">
 		<!--Keyrooms-->
+		<file name="DNA_Keycards_types.xml" type="types"/>
 	</ce>
 </economycore>

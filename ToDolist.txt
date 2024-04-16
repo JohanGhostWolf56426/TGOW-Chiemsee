@@ -1,3 +1,53 @@
+Build Loot tabel for DNA Keycards
+Resize DNA Keycards to 1x2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
     Change RK_ctrlbox - 1x1
     Change RK_die - 1x1

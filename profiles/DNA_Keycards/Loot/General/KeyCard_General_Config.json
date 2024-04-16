@@ -3,7 +3,32 @@
         {
             "dna_Tier": "yellow",
             "dna_Category": "proprietary",
-            "dna_Type": ""
+            "dna_Type": "DNA_KeyCard_Green_Inactive"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "proprietary",
+            "dna_Type": "DNA_KeyCard_Blue_Inactive"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "DNA_KeyCard_Purple_Inactive"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "proprietary",
+            "dna_Type": "DNA_KeyCard_Red_Inactive"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "DNA_KeyCard_BlisterPackChip_Orange"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "medical",
+            "dna_Type": "BandageDressing"
         },
         {
             "dna_Tier": "yellow",
@@ -12,78 +37,93 @@
         },
         {
             "dna_Tier": "yellow",
-            "dna_Category": "food",
-            "dna_Type": "BoxCerealCrunchin"
+            "dna_Category": "medical",
+            "dna_Type": "PurificationTablets"
         },
         {
             "dna_Tier": "yellow",
-            "dna_Category": "drink",
-            "dna_Type": "SodaCan_Spite"
-        },
-        {
-            "dna_Tier": "yellow",
-            "dna_Category": "tools",
-            "dna_Type": "Pickaxe"
-        },
-        {
-            "dna_Tier": "yellow",
-            "dna_Category": "material",
-            "dna_Type": "WoodenPlank"
-        },
-        {
-            "dna_Tier": "yellow",
-            "dna_Category": "valuable",
-            "dna_Type": ""
-        },
-        {
-            "dna_Tier": "yellow",
-            "dna_Category": "misc",
-            "dna_Type": ""
-        },
-        {
-            "dna_Tier": "green",
-            "dna_Category": "proprietary",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "StartKitIV"
         },
         {
             "dna_Tier": "green",
             "dna_Category": "medical",
-            "dna_Type": "BloodBagIV"
+            "dna_Type": "BandageDressing"
         },
         {
             "dna_Tier": "green",
-            "dna_Category": "food",
-            "dna_Type": "PeachesCan_Opened"
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
         },
         {
             "dna_Tier": "green",
-            "dna_Category": "drink",
-            "dna_Type": "SodaCan_Cola"
+            "dna_Category": "medical",
+            "dna_Type": "DisinfectantAlcohol"
         },
         {
             "dna_Tier": "green",
-            "dna_Category": "tools",
-            "dna_Type": "Screwdriver"
+            "dna_Category": "medical",
+            "dna_Type": "PainkillerTablets"
         },
         {
             "dna_Tier": "green",
-            "dna_Category": "material",
-            "dna_Type": "NailBox"
+            "dna_Category": "medical",
+            "dna_Type": "PurificationTablets"
         },
         {
             "dna_Tier": "green",
-            "dna_Category": "valuable",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "StartKitIV"
         },
         {
             "dna_Tier": "green",
-            "dna_Category": "misc",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "VitaminBottle"
         },
         {
             "dna_Tier": "blue",
-            "dna_Category": "proprietary",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "BandageDressing"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "DisinfectantAlcohol"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "Epinephrine"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "PainkillerTablets"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "PurificationTablets"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBagIV"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "StartKitIV"
         },
         {
             "dna_Tier": "blue",
@@ -92,38 +132,8 @@
         },
         {
             "dna_Tier": "blue",
-            "dna_Category": "food",
-            "dna_Type": "TacticalBaconCan"
-        },
-        {
-            "dna_Tier": "blue",
-            "dna_Category": "drink",
-            "dna_Type": "SodaCan_Fronta"
-        },
-        {
-            "dna_Tier": "blue",
-            "dna_Category": "tools",
-            "dna_Type": "Shovel"
-        },
-        {
-            "dna_Tier": "blue",
-            "dna_Category": "material",
-            "dna_Type": "FenceKit"
-        },
-        {
-            "dna_Tier": "blue",
-            "dna_Category": "valuable",
-            "dna_Type": ""
-        },
-        {
-            "dna_Tier": "blue",
-            "dna_Category": "misc",
-            "dna_Type": ""
-        },
-        {
-            "dna_Tier": "purple",
-            "dna_Category": "proprietary",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "VitaminBottle"
         },
         {
             "dna_Tier": "purple",
@@ -132,33 +142,93 @@
         },
         {
             "dna_Tier": "purple",
-            "dna_Category": "food",
-            "dna_Type": "BakedBeansCan"
+            "dna_Category": "medical",
+            "dna_Type": "AntiChemInjector"
         },
         {
             "dna_Tier": "purple",
-            "dna_Category": "drink",
-            "dna_Type": "WaterBottle"
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
         },
         {
             "dna_Tier": "purple",
-            "dna_Category": "tools",
-            "dna_Type": "WoodAxe"
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
         },
         {
             "dna_Tier": "purple",
-            "dna_Category": "valuable",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "DisinfectantAlcohol"
         },
         {
             "dna_Tier": "purple",
-            "dna_Category": "misc",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "Epinephrine"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "Morphine"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "PainkillerTablets"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "PurificationTablets"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBagIV"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "StartKitIV"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "VitaminBottle"
         },
         {
             "dna_Tier": "red",
-            "dna_Category": "proprietary",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "BandageDressing"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "AntiChemInjector"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "DisinfectantAlcohol"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "Epinephrine"
         },
         {
             "dna_Tier": "red",
@@ -167,33 +237,33 @@
         },
         {
             "dna_Tier": "red",
-            "dna_Category": "food",
-            "dna_Type": "BakedBeansCan_Opened"
+            "dna_Category": "medical",
+            "dna_Type": "PainkillerTablets"
         },
         {
             "dna_Tier": "red",
-            "dna_Category": "drink",
-            "dna_Type": "SodaCan_Pipsi"
+            "dna_Category": "medical",
+            "dna_Type": "PurificationTablets"
         },
         {
             "dna_Tier": "red",
-            "dna_Category": "tools",
-            "dna_Type": "FirefighterAxe_Green"
+            "dna_Category": "medical",
+            "dna_Type": "SalineBagIV"
         },
         {
             "dna_Tier": "red",
-            "dna_Category": "material",
-            "dna_Type": "ShelterKit"
+            "dna_Category": "medical",
+            "dna_Type": "StartKitIV"
         },
         {
             "dna_Tier": "red",
-            "dna_Category": "valuable",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
         },
         {
             "dna_Tier": "red",
-            "dna_Category": "misc",
-            "dna_Type": ""
+            "dna_Category": "medical",
+            "dna_Type": "VitaminBottle"
         }
     ]
 }

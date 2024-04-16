@@ -807,12 +807,12 @@
         },
         {
             "dna_Option": "(161) [PURPLE TIER] Min Med Types to give (Set to 0 for chance to not spawn!)",
-            "dna_CrateSetting": 2,
+            "dna_CrateSetting": 13,
             "dna_StrongroomSetting": 2
         },
         {
             "dna_Option": "(162) [PURPLE TIER] Max Med Types to give (Set to 0 to turn off - If on, don't set lower than min!)",
-            "dna_CrateSetting": 3,
+            "dna_CrateSetting": 13,
             "dna_StrongroomSetting": 3
         },
         {
