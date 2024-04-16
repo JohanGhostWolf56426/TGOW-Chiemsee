@@ -264,6 +264,126 @@
             "dna_Tier": "red",
             "dna_Category": "medical",
             "dna_Type": "VitaminBottle"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "SaltySticks"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "Crackers"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "Chips"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "Zagorky"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "ZagorkyPeanuts"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "Pajka"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "ZagorkyChocolate"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "BrisketSpread"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "Pate"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "SardinesCan"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "CatFoodCan"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "TunaCan"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "DogFoodCan"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "Rice"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "Lunchmeat"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "PorkCan"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "Marmalade"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "PeachesCan"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "SpaghettiCan"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "PowderedMilk"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "Honey"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
         }
     ]
 }
