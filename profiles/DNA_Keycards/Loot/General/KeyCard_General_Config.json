@@ -384,6 +384,131 @@
             "dna_Tier": "red",
             "dna_Category": "food",
             "dna_Type": "TacticalBaconCan"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Cola"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Fronta"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Pipsi"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Cola"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Fronta"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Pipsi"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Cola"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Fronta"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Pipsi"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Cola"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Fronta"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Pipsi"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Cola"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Fronta"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Pipsi"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
         }
     ]
 }

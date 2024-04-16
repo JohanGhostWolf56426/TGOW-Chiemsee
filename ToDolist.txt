@@ -1,36 +1,6 @@
 Build Loot tabel for DNA Keycards
 Resize DNA Keycards to 1x2
 
-Salty Sticks - SaltySticks
-Crackers - Crackers
-Chips - Chips
-Zagorky - Zagorky
-
-Zagorky Peanuts - ZagorkyPeanuts
-Pajka - Pajka
-Zagorky Chocolate - ZagorkyChocolate
-Brisket Spread - BrisketSpread
-Liver Pate - Pate
-
-Canned Sardines - SardinesCan
-Cat Food Can - CatFoodCan
-Canned Tuna - TunaCan
-Dog Food Can - DogFoodCan
-Rice - Rice
-
-Lunchmeat - Lunchmeat
-Canned Pork - PorkCan
-Strawberry Jam - Marmalade
-Canned Peaches - PeachesCan
-Canned Spaghetti - SpaghettiCan
-
-Powdered Milk - PowderedMilk
-Canned Baked Beans - BakedBeansCan
-Cereals - BoxCerealCrunchin
-Honey - Honey
-Canned Bacon - TacticalBaconCan
-
-
 
 
 

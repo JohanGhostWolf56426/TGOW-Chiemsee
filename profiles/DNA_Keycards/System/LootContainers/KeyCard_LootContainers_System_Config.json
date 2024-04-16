@@ -747,12 +747,12 @@
         },
         {
             "dna_Option": "(149) [PURPLE TIER] Min Food Types to give (Set to 0 for chance to not spawn!)",
-            "dna_CrateSetting": 5,
+            "dna_CrateSetting": 1,
             "dna_StrongroomSetting": 1
         },
         {
             "dna_Option": "(150) [PURPLE TIER] Max Food Types to give (Set to 0 to turn off - If on, don't set higher than food type entry count or lower than min!)",
-            "dna_CrateSetting": 5,
+            "dna_CrateSetting": 2,
             "dna_StrongroomSetting": 1
         },
         {
@@ -767,12 +767,12 @@
         },
         {
             "dna_Option": "(153) [PURPLE TIER] Min Drink Types to give (Set to 0 for chance to not spawn!)",
-            "dna_CrateSetting": 1,
+            "dna_CrateSetting": 5,
             "dna_StrongroomSetting": 1
         },
         {
             "dna_Option": "(154) [PURPLE TIER] Max Drink Types to give (Set to 0 to turn off - If on, don't set higher than drink type entry count or lower than min!)",
-            "dna_CrateSetting": 1,
+            "dna_CrateSetting": 5,
             "dna_StrongroomSetting": 1
         },
         {
@@ -782,7 +782,7 @@
         },
         {
             "dna_Option": "(156) [PURPLE TIER] Max Amount Of Each Drink Type to give (If on, don't set lower than min!)",
-            "dna_CrateSetting": 2,
+            "dna_CrateSetting": 1,
             "dna_StrongroomSetting": 3
         },
         {
