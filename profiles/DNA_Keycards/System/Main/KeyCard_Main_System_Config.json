@@ -56,23 +56,23 @@
         },
         {
             "dna_Option": "(12) Yellow Card Usage Allotment",
-            "dna_Setting": 2
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(13) Green Card Usage Allotment",
-            "dna_Setting": 2
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(14) Blue Card Usage Allotment",
-            "dna_Setting": 1
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(15) Purple Card Usage Allotment",
-            "dna_Setting": 1
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(16) Red Card Usage Allotment",
-            "dna_Setting": 1
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(17) Separate Sidearms by tier (1 = Yes, 0 = No)",
