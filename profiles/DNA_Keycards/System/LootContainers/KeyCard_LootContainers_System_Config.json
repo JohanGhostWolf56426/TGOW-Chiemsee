@@ -767,12 +767,12 @@
         },
         {
             "dna_Option": "(153) [PURPLE TIER] Min Drink Types to give (Set to 0 for chance to not spawn!)",
-            "dna_CrateSetting": 5,
+            "dna_CrateSetting": 2,
             "dna_StrongroomSetting": 1
         },
         {
             "dna_Option": "(154) [PURPLE TIER] Max Drink Types to give (Set to 0 to turn off - If on, don't set higher than drink type entry count or lower than min!)",
-            "dna_CrateSetting": 5,
+            "dna_CrateSetting": 3,
             "dna_StrongroomSetting": 1
         },
         {
@@ -787,12 +787,12 @@
         },
         {
             "dna_Option": "(157) [PURPLE TIER] Min Tool Types to give (Set to 0 for chance to not spawn!)",
-            "dna_CrateSetting": 0,
+            "dna_CrateSetting": 2,
             "dna_StrongroomSetting": 2
         },
         {
             "dna_Option": "(158) [PURPLE TIER] Max Tool Types to give (Set to 0 to turn off - If on, DO NOT set lower than min, or higher than available type entries! Each type will only be chosen once.)",
-            "dna_CrateSetting": 1,
+            "dna_CrateSetting": 3,
             "dna_StrongroomSetting": 3
         },
         {
