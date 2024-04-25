@@ -827,12 +827,12 @@
         },
         {
             "dna_Option": "(165) [PURPLE TIER] Min Material Types to give (Set to 0 for chance to not spawn!)",
-            "dna_CrateSetting": 0,
+            "dna_CrateSetting": 2,
             "dna_StrongroomSetting": 2
         },
         {
             "dna_Option": "(166) [PURPLE TIER] Max Material Types to give (Set to 0 to turn off - If on, don't set lower than min!)",
-            "dna_CrateSetting": 1,
+            "dna_CrateSetting": 4,
             "dna_StrongroomSetting": 3
         },
         {
@@ -857,7 +857,7 @@
         },
         {
             "dna_Option": "(171) [PURPLE TIER] Max Valuable Types to give (If on, don't set lower than min!)",
-            "dna_CrateSetting": 2,
+            "dna_CrateSetting": 1,
             "dna_StrongroomSetting": 3
         },
         {
@@ -872,12 +872,12 @@
         },
         {
             "dna_Option": "(174) [PURPLE TIER] Min Miscellaneous Types to give (Set to 0 for chance to spawn none.)",
-            "dna_CrateSetting": 0,
+            "dna_CrateSetting": 2,
             "dna_StrongroomSetting": 2
         },
         {
             "dna_Option": "(175) [PURPLE TIER] Max Miscellaneous Types to give (0 to turn off)",
-            "dna_CrateSetting": 2,
+            "dna_CrateSetting": 3,
             "dna_StrongroomSetting": 3
         },
         {

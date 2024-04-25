@@ -523,11 +523,6 @@
         {
             "dna_Tier":"yellow",
             "dna_Category":"tools",
-            "dna_Type":"LargeTent"
-        },
-        {
-            "dna_Tier":"yellow",
-            "dna_Category":"tools",
             "dna_Type":"Rope"
         },
         {
@@ -568,22 +563,7 @@
         {
             "dna_Tier":"yellow",
             "dna_Category":"tools",
-            "dna_Type":"PartyTent"
-        },
-        {
-            "dna_Tier":"yellow",
-            "dna_Category":"tools",
             "dna_Type":"Broom"
-        },
-        {
-            "dna_Tier":"yellow",
-            "dna_Category":"tools",
-            "dna_Type":"MediumTent"
-        },
-        {
-            "dna_Tier":"yellow",
-            "dna_Category":"tools",
-            "dna_Type":"MetalPlate"
         },
         {
             "dna_Tier":"yellow",
@@ -633,11 +613,6 @@
         {
             "dna_Tier":"green",
             "dna_Category":"tools",
-            "dna_Type":"NailBox"
-        },
-        {
-            "dna_Tier":"green",
-            "dna_Category":"tools",
             "dna_Type":"Pickaxe"
         },
         {
@@ -673,17 +648,7 @@
         {
             "dna_Tier":"green",
             "dna_Category":"tools",
-            "dna_Type":"CombinationLock"
-        },
-        {
-            "dna_Tier":"green",
-            "dna_Category":"tools",
             "dna_Type":"LeatherSewingKit"
-        },
-        {
-            "dna_Tier":"green",
-            "dna_Category":"tools",
-            "dna_Type":"MetalWire"
         },
         {
             "dna_Tier":"green",
@@ -953,17 +918,7 @@
         {
             "dna_Tier":"red",
             "dna_Category":"tools",
-            "dna_Type":"CarTent"
-        },
-        {
-            "dna_Tier":"red",
-            "dna_Category":"tools",
             "dna_Type":"Sword"
-        },
-        {
-            "dna_Tier":"red",
-            "dna_Category":"tools",
-            "dna_Type":"CombinationLock4"
         },
         {
             "dna_Tier":"red",
@@ -974,6 +929,351 @@
             "dna_Tier":"red",
             "dna_Category":"tools",
             "dna_Type":"Matchbox"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"material",
+            "dna_Type":"MediumTent"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"material",
+            "dna_Type":"CarTent"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"material",
+            "dna_Type":"CombinationLock"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"material",
+            "dna_Type":"LargeTent"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"material",
+            "dna_Type":"NailBox"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"material",
+            "dna_Type":"MetalWire"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"material",
+            "dna_Type":"MediumTent_Green"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"material",
+            "dna_Type":"MetalPlate"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"material",
+            "dna_Type":"PartyTent_Blue"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"material",
+            "dna_Type":"GardenLime"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"material",
+            "dna_Type":"PartyTent_Lunapark"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"material",
+            "dna_Type":"CombinationLock4"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"material",
+            "dna_Type":"PartyTent_Brown"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"material",
+            "dna_Type":"MediumTent_Orange"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"material",
+            "dna_Type":"Camonet"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"material",
+            "dna_Type":"BarbedWire"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"material",
+            "dna_Type":"PartyTent"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"OrientalMachete"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"Machete"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieBushrag_Tan"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"Ammo_FlareGreen"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"Binoculars"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieSuit_Woodland"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"Compass"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"KukriKnife"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"FangeKnife"
+        },
+        {
+            "dna_Tier":"yellow",
+            "dna_Category":"misc",
+            "dna_Type":"ChernarusMap"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"Headtorch_Black"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"SteakKnife"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieTop_Tan"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"Lockpick"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"CrudeMachete"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"FireworksLauncher"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"Chemlight_Yellow"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"Chemlight_Green"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieAtt_Mossy"
+        },
+        {
+            "dna_Tier":"green",
+            "dna_Category":"misc",
+            "dna_Type":"Chemlight_White"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieHood_Woodland"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"BrassKnuckles_Dull"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"Ammo_FlareRed"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"Hatchet"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"Ammo_FlareBlue"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"XmasLights"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieSuit_Tan"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieTop_Mossy"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"Broom"
+        },
+        {
+            "dna_Tier":"blue",
+            "dna_Category":"misc",
+            "dna_Type":"Sickle"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"SeaChest"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"Ammo_Flare"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"UniversalLight"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieBushrag_Woodland"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"CombatKnife"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"BrassKnuckles_Shiny"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"PersonalRadio"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieHood_Tan"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieAtt_Tan"
+        },
+        {
+            "dna_Tier":"purple",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieHood_Mossy"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieTop_Woodland"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieAtt_Woodland"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieBushrag_Mossy"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"Headtorch_Grey"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"GhillieSuit_Mossy"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"Chemlight_Blue"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"HuntingKnife"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"DisinfectantSpray"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"Cleaver"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"GasMask_Filter"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"Chemlight_Red"
+        },
+        {
+            "dna_Tier":"red",
+            "dna_Category":"misc",
+            "dna_Type":"KitchenKnife"
         }
     ]
 }
