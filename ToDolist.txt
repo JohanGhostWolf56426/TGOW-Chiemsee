@@ -1,4 +1,3 @@
-Add in new in the 1.25 items
 Build Loot tabel for DNA Keycards
 Resize DNA Keycards to 1x2
 Resize Pot - 
@@ -21,6 +20,8 @@ Resize 40mm grenades -
 Crate at 9414.38 / 8889.38 - Screenshot_14.png
 Possible Black market locations:
     9557, 0, 9677 - Screenshot_15.png
+Resize Radiator - 
+    Size 3x3
 
 Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
     Change RK_ctrlbox - 1x1
