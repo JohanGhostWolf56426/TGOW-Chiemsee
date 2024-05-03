@@ -22,6 +22,7 @@ Possible Black market locations:
     9557, 0, 9677 - Screenshot_15.png
 Resize Radiator - 
     Size 3x3
+Add 1.25 Items to Keycards loottable
 
 Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
     Change RK_ctrlbox - 1x1

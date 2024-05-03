@@ -16,7 +16,7 @@
         },
         {
             "dna_Option": "(2) Yellow Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(3) Green Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
@@ -24,15 +24,15 @@
         },
         {
             "dna_Option": "(4) Blue Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 0
-        },
-        {
-            "dna_Option": "(5) Purple Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
             "dna_Setting": 1
         },
         {
-            "dna_Option": "(6) Red Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
+            "dna_Option": "(5) Purple Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
             "dna_Setting": 0
+        },
+        {
+            "dna_Option": "(6) Red Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(7) Yellow Strongrooms Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
@@ -76,23 +76,23 @@
         },
         {
             "dna_Option": "(17) Separate Sidearms by tier (1 = Yes, 0 = No)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(18) Separate Food and Drink by tier (1 = Yes, 0 = No)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(19) Separate Tools by tier (1 = Yes, 0 = No)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(20) Separate Meds by tier (1 = Yes, 0 = No)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(21) Separate Materials by tier (1 = Yes, 0 = No)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(22) Separate Miscellaneous by tier (1 = Yes, 0 = No)",
@@ -200,27 +200,27 @@
         },
         {
             "dna_Option": "(48) Yellow Crates alarm toggle - (0 = Off - 1 = On)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(49) Yellow Crates notification range - (0 = Off - Max 2000m - 2001+ shows full server)",
-            "dna_Setting": 0
+            "dna_Setting": 100
         },
         {
             "dna_Option": "(50) Green Crates alarm toggle - (0 = Off - 1 = On)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(51) Green Crates notification range - (0 = Off - Max 2000m - 2001+ shows full server)",
-            "dna_Setting": 0
+            "dna_Setting": 200
         },
         {
             "dna_Option": "(52) Blue Crates alarm toggle - (0 = Off - 1 = On)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(53) Blue Crates notification range - (0 = Off - Max 2000m - 2001+ shows full server)",
-            "dna_Setting": 0
+            "dna_Setting": 400
         },
         {
             "dna_Option": "(54) Purple Crates alarm toggle - (0 = Off - 1 = On)",
@@ -228,15 +228,15 @@
         },
         {
             "dna_Option": "(55) Purple Crates notification range - (0 = Off - Max 2000m - 2001+ shows full server)",
-            "dna_Setting": 200
+            "dna_Setting": 800
         },
         {
             "dna_Option": "(56) Red Crates alarm toggle - (0 = Off - 1 = On)",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(57) Red Crates notification range - (0 = Off - Max 2000m - 2001+ shows full server)",
-            "dna_Setting": 0
+            "dna_Setting": 1600
         },
         {
             "dna_Option": "(58) Yellow Lockout Doors alarm toggle - (0 = Off - 1 = On)",
@@ -281,24 +281,8 @@
     ],
     "m_DNAYellow_Crate_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "8693.707031 3 8791.720703",
+            "dna_Rotation": "107.999939 0.000000 -0.000000"
         }
     ],
     "m_DNAGreen_Crate_Locations": [
@@ -325,60 +309,20 @@
     ],
     "m_DNABlue_Crate_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "9148.820313 11.151990 8710.670898",
+            "dna_Rotation": "58.585011 0.000000 -0.000000"
         }
     ],
     "m_DNAPurple_Crate_Locations": [
         {
-            "dna_Location": "9171.646484 6.493454 8663.032227",
-            "dna_Rotation": "0.000000 0.000000 -0.000000"
-        },
-        {
-            "dna_Location": "9148.820313 11.151990 8710.670898",
-            "dna_Rotation": "58.585011 0.000000 -0.000000"
-        },
-        {
-            "dna_Location": "8693.707031 3 8791.720703",
-            "dna_Rotation": "107.999939 0.000000 -0.000000"
-        }
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
+        }    
     ],
     "m_DNARed_Crate_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "9171.646484 6.493454 8663.032227",
+            "dna_Rotation": "0.000000 0.000000 -0.000000"
         }
     ],
     "m_DNAYellow_Strongroom_Locations": [
