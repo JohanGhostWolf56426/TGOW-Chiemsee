@@ -281,8 +281,8 @@
     ],
     "m_DNAYellow_Crate_Locations": [
         {
-            "dna_Location": "8693.707031 3 8791.720703",
-            "dna_Rotation": "107.999939 0.000000 -0.000000"
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
         }
     ],
     "m_DNAGreen_Crate_Locations": [
@@ -309,8 +309,8 @@
     ],
     "m_DNABlue_Crate_Locations": [
         {
-            "dna_Location": "9148.820313 11.151990 8710.670898",
-            "dna_Rotation": "58.585011 0.000000 -0.000000"
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
         }
     ],
     "m_DNAPurple_Crate_Locations": [
@@ -321,118 +321,186 @@
     ],
     "m_DNARed_Crate_Locations": [
         {
-            "dna_Location": "9171.646484 6.493454 8663.032227",
-            "dna_Rotation": "0.000000 0.000000 -0.000000"
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
         }
     ],
     "m_DNAYellow_Strongroom_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "5993.289551 18.221554 9448.330078",
+            "dna_Rotation": "152.999908 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "1850.678711 62.862568 5312.933105",
+            "dna_Rotation": "98.999931 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "1504.575928 52.112690 5743.510254",
+            "dna_Rotation": "-171.000107 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "3089.879883 21.919218 8295.349609",
+            "dna_Rotation": "90.499992 0.0 0.0"
+        },
+        {
+            "dna_Location": "7014.635254 75.362251 8221.111328",
+            "dna_Rotation": "9.000000 -0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "1364.938599 28.104042 7217.273438",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "4672.562500 25.172125 8958.439453",
+            "dna_Rotation": "35.999908 -0.000000 -0.000000"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "6494.726563 18.826414 9661.441406",
+            "dna_Rotation": "18.0 0.0 0.0"
         }
     ],
     "m_DNAGreen_Strongroom_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "7663.873047 46.476009 9780.435547",
+            "dna_Rotation": "-107.999939 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "8879.041016 7.904320 8701.603516",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "8605.252930 10.253384 6676.996094",
+            "dna_Rotation": "-61 0.0 0.0"
+        },
+        {
+            "dna_Location": "5034.470215 13.861864 8597.699219",
+            "dna_Rotation": "107.999939 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "7266.471680 26.919741 5395.558594",
+            "dna_Rotation": "107.999962 0.0 0.0"
+        },
+        {
+            "dna_Location": "6190.817383 37.050163 8001.971680",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "3827.007813 31.938803 8682.847656",
+            "dna_Rotation": "-80.999901 0.000000 0.000000"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
-        },
-        {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "6775.101074 41.552170 6846.036133",
             "dna_Rotation": "0.0 0.0 0.0"
         }
     ],
     "m_DNABlue_Strongroom_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "5698.702148 10.658207 8833.542969",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "4485.442383 24.540136 5247.004395",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "3087.489502 23.944004 1581.299805",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "9969.740234 36.947609 1035.790039",
+            "dna_Rotation": "-120.999992 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "6433.686523 9.858404 9145.118164",
+            "dna_Rotation": "-3.5 0.0 0.0"
+        },
+        {
+            "dna_Location": "1405.274292 36.635185 8745.621094",
+            "dna_Rotation": "-135.000046 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "7078.917480 41.431892 6396.836914",
+            "dna_Rotation": "62.999973 0.0 0.0"
+        },
+        {
+            "dna_Location": "7178.513672 75.449554 8185.106934",
+            "dna_Rotation": "9.0 0.0 0.0"
         }
     ],
     "m_DNAPurple_Strongroom_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "3553.817627 29.557459 3546.226074",
+            "dna_Rotation": "116.999947 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "7155.009766 16.194099 3486.330078",
+            "dna_Rotation": "89.499985 0.0 0.0"
+        },
+        {
+            "dna_Location": "3167.413330 22.676521 6915.832031",
+            "dna_Rotation": "170.999863 0.0 0.0"
+        },
+        {
+            "dna_Location": "6404.296875 40.697449 7942.455078",
+            "dna_Rotation": "134.999908 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "8552.962891 50.965061 10047.742188",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "9629.021484 13.481213 8775.255859",
+            "dna_Rotation": "117 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "6096.166016 21.107187 9685.185547",
+            "dna_Rotation": "122.843224 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "4923.424316 10.785707 5373.410156",
+            "dna_Rotation": "152.999908 0.000000 -0.000000"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "7532.330078 43.253399 9584.360352",
+            "dna_Rotation": "-1.5 0.0 0.0"
         }
     ],
     "m_DNARed_Strongroom_Locations": [
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "5358.137695 8.186165 9790.919922",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
+            "dna_Location": "8182.890137 15.787700 7178.689941",
+            "dna_Rotation": "-125.999992 0.0 0.0"
+        },
+        {
+            "dna_Location": "2065.412598 62.752899 5478.547852",
             "dna_Rotation": "0.0 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "5525.150879 7.854201 8286.659180",
+            "dna_Rotation": "-81.000008 0.000000 -0.000000"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "308.643707 370.721191 7518.536621",
+            "dna_Rotation": "90.000069 0.0 0.0"
         },
         {
-            "dna_Location": "0.0 0.0 0.0",
-            "dna_Rotation": "0.0 0.0 0.0"
+            "dna_Location": "3263.003662 25.459784 2801.483887",
+            "dna_Rotation": "-18.000118 0.000000 0.000000"
+        },
+        {
+            "dna_Location": "7527.583984 42.166687 9614.684570",
+            "dna_Rotation": "-18.000000 0.000000 0.000000"
+        },
+        {
+            "dna_Location": "1486.612305 36.569794 8458.913086",
+            "dna_Rotation": "152.999908 0.000000 -0.000000"
+        },
+        {
+            "dna_Location": "4028.312500 26.641069 8420.725586",
+            "dna_Rotation": "99.000069 0.000000 -0.000000"
         }
     ]
 }
