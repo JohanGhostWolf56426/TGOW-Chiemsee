@@ -23,6 +23,10 @@ Possible Black market locations:
 Resize Radiator - 
     Size 3x3
 Add 1.25 Items to Keycards loottable
+Remove loose ammo from loottable
+Reduce admin backpack to 1000 slots
+Fix the texture of the admin backpack
+Add admin vest and attachments
 
 Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
     Change RK_ctrlbox - 1x1
