@@ -1,5 +1,4 @@
 Build Loot tabel for DNA Keycards
-Resize DNA Keycards to 1x2
 Resize Pot - 
     Size 3x3
     Inventory 4x4
