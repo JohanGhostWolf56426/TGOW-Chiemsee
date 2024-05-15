@@ -1,0 +1,50 @@
+Build Loot tabel for DNA Keycards
+Resize Pot - 
+    Size 3x3
+    Inventory 4x4
+Resize MetalPlate - 
+    Size 5x5
+    Stack 50
+Resize CableReel - 
+    Size 2x2
+Resize SeaChest - 
+    Size 3x5
+Resize PowerGenerator - 
+    Size 5x5
+Resize CasolineCanister - 
+    Size 5x5
+Resize 40mm grenades - 
+    Size 1x1
+    Stack 10
+Crate at 9414.38 / 8889.38 - Screenshot_14.png
+Possible Black market locations:
+    9557, 0, 9677 - Screenshot_15.png
+Resize Radiator - 
+    Size 3x3
+Add 1.25 Items to Keycards loottable
+Remove loose ammo from loottable
+Reduce admin backpack to 1000 slots
+Fix the texture of the admin backpack
+Add admin vest and attachments
+
+Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
+    Change RK_ctrlbox - 1x1
+    Change RK_die - 1x1
+    Change RK_pressonly - 5x5
+    Change RK_metal - 5x5
+
+    RK_ctrlbox - Tier3
+    RK_die - Tier4
+    RK_pressonly - Tier4 Lootrooms
+    RK_metal - Tier5 Lootrooms
+
+Ammo Reloader - https://steamcommunity.com/sharedfiles/filedetails/?id=3179922338 :
+    Change RK_Reloader - 5x5
+    Change RK_Bullets - 1x1
+    Change RK_Casings - 1x1
+    Change RK_EmptyBox - 2x2
+
+    RK_Reloader - Tier4 Lootrooms
+    RK_EmptyBox - Tier5 Lootrooms
+    RK_Bullets - Tier4
+    RK_Casings -Tier3
