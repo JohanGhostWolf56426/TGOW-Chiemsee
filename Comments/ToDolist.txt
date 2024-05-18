@@ -1,26 +1,7 @@
 Build Loot tabel for DNA Keycards
-Resize Pot - 
-    Size 3x3
-    Inventory 4x4
-Resize MetalPlate - 
-    Size 5x5
-    Stack 50
-Resize CableReel - 
-    Size 2x2
-Resize SeaChest - 
-    Size 3x5
-Resize PowerGenerator - 
-    Size 5x5
-Resize CasolineCanister - 
-    Size 5x5
-Resize 40mm grenades - 
-    Size 1x1
-    Stack 10
 Crate at 9414.38 / 8889.38 - Screenshot_14.png
 Possible Black market locations:
     9557, 0, 9677 - Screenshot_15.png
-Resize Radiator - 
-    Size 3x3
 Add 1.25 Items to Keycards loottable
 Remove loose ammo from loottable
 Reduce admin backpack to 1000 slots
@@ -48,3 +29,4 @@ Ammo Reloader - https://steamcommunity.com/sharedfiles/filedetails/?id=317992233
     RK_EmptyBox - Tier5 Lootrooms
     RK_Bullets - Tier4
     RK_Casings -Tier3
+    
