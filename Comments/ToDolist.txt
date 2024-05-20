@@ -7,6 +7,8 @@ Remove loose ammo from loottable
 Reduce admin backpack to 1000 slots
 Fix the texture of the admin backpack
 Add admin vest and attachments
+Resize BearTrap: 
+    Size - 3x5
 
 Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
     Change RK_ctrlbox - 1x1
