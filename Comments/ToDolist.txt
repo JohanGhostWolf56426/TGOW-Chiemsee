@@ -1,6 +1,5 @@
 Add handcuff to buy menu
 Build Loot tabel for DNA Keycards
-Crate at 9414.38 / 8889.38 - Screenshot_14.png
 Possible Black market locations: https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308 & https://steamcommunity.com/sharedfiles/filedetails/?id=2572328470
     9557, 0, 9677 - Screenshot_15.png
 Add 1.25 Items to Keycards loottable
