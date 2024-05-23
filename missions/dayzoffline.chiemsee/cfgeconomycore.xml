@@ -43,5 +43,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="mods">
 		<!--Keyrooms-->
 		<file name="DNA_Keycards_types.xml" type="types"/>
+		<!--Lootchest-->
+		<file name="TGOW_items_types.xml" type="types"/>
 	</ce>
 </economycore>

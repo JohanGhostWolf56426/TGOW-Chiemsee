@@ -1,0 +1,61 @@
+{
+    "EnableDebug": 0,
+    "DeleteLogs": 1,
+    "MaxSpareMags": 3,
+    "RandomQuantity": 0,
+    "LootChestsLocations": [
+        {
+            "name": "PoliceHQAmmocrate",
+            "number": 1,
+            "pos": [
+                "9415.472656 9.846832 8884.244141|49.694656 0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Ammo_Small_Brown",
+		        "CJ_LootChest_Ammo_Small_Green"
+            ],
+            "lootrandomize": 0.5,
+            "light": 0,
+            "loot": [
+                "AmmoBox_00buck_10rnd|0.7",
+                "AmmoBox_12gaRubberSlug_10Rnd|0.8",
+                "AmmoBox_12gaSlug_10Rnd|0.8",
+                "AmmoBox_22_50Rnd|0.8",
+                "AmmoBox_308WinTracer_20Rnd|0.4",
+                "AmmoBox_308Win_20Rnd|0.1",
+                "AmmoBox_357_20Rnd|0.9",
+                "AmmoBox_380_35rnd|1.0",
+                "AmmoBox_45ACP_25rnd|0.9",
+                "AmmoBox_545x39Tracer_20Rnd|0.5",
+                "AmmoBox_545x39_20Rnd|0.3",
+                "AmmoBox_556x45Tracer_20Rnd|0.5",
+                "AmmoBox_556x45_20Rnd|0.2",
+                "AmmoBox_762x39Tracer_20Rnd|0.4",
+                "AmmoBox_762x39_20Rnd|0.2",
+                "AmmoBox_762x54Tracer_20Rnd|0.3",
+                "AmmoBox_762x54_20Rnd|0.1",
+                "AmmoBox_9x19_25rnd|0.9",
+                "AmmoBox_9x39AP_20Rnd|0.6",
+                "AmmoBox_9x39_20Rnd|0.7"
+            ]
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_SVD",
+            "weapon": "",
+            "magazine": "",
+            "attachments": [],
+            "optic": "",
+            "opticbattery": 1
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Weapons_1",
+            "Loot": []
+        }
+    ]
+}
