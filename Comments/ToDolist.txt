@@ -1,6 +1,7 @@
+Add handcuff to buy menu
 Build Loot tabel for DNA Keycards
 Crate at 9414.38 / 8889.38 - Screenshot_14.png
-Possible Black market locations:
+Possible Black market locations: https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308 & https://steamcommunity.com/sharedfiles/filedetails/?id=2572328470
     9557, 0, 9677 - Screenshot_15.png
 Add 1.25 Items to Keycards loottable
 Remove loose ammo from loottable
@@ -9,6 +10,11 @@ Fix the texture of the admin backpack
 Add admin vest and attachments
 Resize BearTrap: 
     Size - 3x5
+Make adjustments to the spawn equipment - somewhat similar to razor setup.
+Make 1st person only
+check this loction out - 7953 / 9478
+possible location for crate 7486 / 9796
+check zombie spawn here 6319 / 9691
 
 Nail Press - https://steamcommunity.com/sharedfiles/filedetails/?id=3169718619 :
     Change RK_ctrlbox - 1x1
@@ -31,4 +37,14 @@ Ammo Reloader - https://steamcommunity.com/sharedfiles/filedetails/?id=317992233
     RK_EmptyBox - Tier5 Lootrooms
     RK_Bullets - Tier4
     RK_Casings -Tier3
-    
+
+Mods to check out-
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3238690259
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3160988657
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3247633425
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3230069487
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3248564210
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3164839000
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3173739565
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3154865021
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3152549320
